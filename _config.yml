@@ -1,1 +1,17 @@
-theme: jekyll-theme-cayman
+# Setup
+title:        Simon Bosman
+tagline:      Just a developer trying to know his way around...
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Simon Bosman
+  url:        http://www.github.com/simonbosman 
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
