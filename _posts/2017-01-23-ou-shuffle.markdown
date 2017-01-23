@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Welcome tiles Open Universiteit"
+title:  "New website Open Universiteit"
 date:   2017-01-23 21:36:00
 categories: main
 ---
