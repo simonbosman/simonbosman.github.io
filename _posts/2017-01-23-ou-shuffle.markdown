@@ -5,7 +5,7 @@ date:   2017-01-23 21:36:00
 categories: main
 ---
 
-{% highlight javascript %}
+{% highlight ruby %}
 // ==UserScript==
 // @name         Shuffle tiles
 // @namespace    http://tampermonkey.net/
