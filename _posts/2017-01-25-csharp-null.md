@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Checking for NPE(Null Point Exception) got a whole lot less onerous."
+title:  "Checking for NPE(Null Pointer Exception) got a whole lot less onerous."
 date:   2017-01-25 15:21:00
 categories: main
 ---
