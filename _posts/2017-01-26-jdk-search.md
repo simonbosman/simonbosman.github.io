@@ -8,7 +8,6 @@ categories: main
 When searching for Java documentation the [first search results](https://github.com/simonbosman/simonbosman.github.io/blob/master/content/Java7SearchResult.PNG)
 will redirect you to the Java Platform SE 7 documentation.<br>
 This userscript will automatically redirect you to the [Java Platform SE 8 documentation](https://github.com/simonbosman/simonbosman.github.io/blob/master/content/Java8SearchResult.PNG) <br>
-Thanks [Yawkat](http://yawk.at/) for the userscript.
 
 {% highlight javascript %}
 // ==UserScript==
@@ -25,3 +24,5 @@ if (result) {
   window.location = result[1] + "8" + result[2];
 }
 {% endhighlight%}
+
+Thanks [Yawkat](http://yawk.at/) for the userscript.
