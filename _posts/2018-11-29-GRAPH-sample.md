@@ -20,7 +20,7 @@ I have made a little dot.net core console app for getting the office 365 groups 
 
 
 ----------
-{% highlight %}
+{% highlight csharp %}
 
 using System;
 using System.Collections.Generic;
