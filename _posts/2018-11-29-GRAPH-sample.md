@@ -16,7 +16,7 @@ Here is very useful blog to get you up and running;-)
 
 [https://developer.microsoft.com/en-us/graph/blogs/announcing-30-days-of-microsoft-graph-blog-series/#](https://developer.microsoft.com/en-us/graph/blogs/announcing-30-days-of-microsoft-graph-blog-series/# "Microsoft Graph")
 
-I have made a little dot.net core console app for getting the office 365 groups from Azure AD. I have put everything in on file for readability.
+I have made a little dot.net core console app for getting the office 365 groups from Azure AD. I have put everything in one file for readability.
 
 
 ----------
