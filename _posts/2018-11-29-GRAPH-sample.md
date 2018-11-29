@@ -12,7 +12,7 @@ First of all you should be authenticated. We are using OAuth 2.0 for that.
 
 ![](https://developer.microsoft.com/en-us/graph/blogs/wp-content/uploads/2018/11/30DaysMSGraph_Day8_Source-768x399.png)
 
-Here is very useful blog explaining the nuts and bolts.
+Here is a very useful blog explaining the nuts and bolts.
 
 [https://developer.microsoft.com/en-us/graph/blogs/announcing-30-days-of-microsoft-graph-blog-series/#](https://developer.microsoft.com/en-us/graph/blogs/announcing-30-days-of-microsoft-graph-blog-series/# "Microsoft Graph")
 
