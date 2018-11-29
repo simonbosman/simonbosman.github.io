@@ -8,15 +8,15 @@ categories: main
 ---
 
 I am implementing a Graph solution for syncing office 365 groups in Azure AD.
-First of all you should be authenticated.
+First of all you should be authenticated. We are using OAuth 2.0 for that.
 
 ![](https://developer.microsoft.com/en-us/graph/blogs/wp-content/uploads/2018/11/30DaysMSGraph_Day8_Source-768x399.png)
 
-Here is very useful blog to get you up and running;-)
+Here is very useful blog to get you up and running :metal
 
 [https://developer.microsoft.com/en-us/graph/blogs/announcing-30-days-of-microsoft-graph-blog-series/#](https://developer.microsoft.com/en-us/graph/blogs/announcing-30-days-of-microsoft-graph-blog-series/# "Microsoft Graph")
 
-I have made a little dot.net core console app for getting the office 365 groups from Azure AD. I have put everything in one file for readability.
+I have made a little .NET Core console app for getting the Office 365 groups from Azure AD. I have put everything in one file for readability.
 
 
 ----------
@@ -56,7 +56,6 @@ namespace ConsoleGraphTest
                 new QueryOption("$filter", "groupTypes/any(c:c+eq+'Unified')")
             };
 
-            //var graphResult = graphClient.Users.Request(options).GetAsync().Result;
             var graphResult = graphClient.Groups.Request(options).GetAsync().Result;
             Console.WriteLine("--- Office 365 Groups ---\n");
             foreach (var group in graphResult) {
