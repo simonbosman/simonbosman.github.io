@@ -149,8 +149,22 @@ a {
       word-break: normal;
       white-space: pre;
       background: transparent;
-      border: 0; 
-      .c     { color: #998; font-style: italic } // Comment
+      border: 0; }
+  .main-content .highlight {
+    margin-bottom: 1rem; }
+    .main-content .highlight pre {
+      margin-bottom: 0;
+      word-break: normal; }
+  .main-content .highlight pre,
+  .main-content pre {
+    padding: 0.8rem;
+    overflow: auto;
+    font-size: 0.9rem;
+    line-height: 1.45;
+    border-radius: 0.3rem;
+    -webkit-overflow-scrolling: touch; }
+  .main-content pre code {
+   .c     { color: #998; font-style: italic } // Comment
   .err   { color: #a61717; background-color: #e3d2d2 } // Error
   .k     { font-weight: bold } // Keyword
   .o     { font-weight: bold } // Operator
@@ -208,22 +222,7 @@ a {
   .vc    { color: #008080 } // Name.Variable.Class
   .vg    { color: #008080 } // Name.Variable.Global
   .vi    { color: #008080 } // Name.Variable.Instance
-  .il    { color: #099 } // Literal.Number.Integer.Long
-}
-  .main-content .highlight {
-    margin-bottom: 1rem; }
-    .main-content .highlight pre {
-      margin-bottom: 0;
-      word-break: normal; }
-  .main-content .highlight pre,
-  .main-content pre {
-    padding: 0.8rem;
-    overflow: auto;
-    font-size: 0.9rem;
-    line-height: 1.45;
-    border-radius: 0.3rem;
-    -webkit-overflow-scrolling: touch; }
-  .main-content pre code,
+  .il    { color: #099 } // Literal.Number.Integer.Long}
   .main-content pre tt {
     display: inline;
     max-width: initial;
