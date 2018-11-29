@@ -4,7 +4,7 @@ title: "Resistance is futile: we are Microsoft Graph"
 date: 2018-11-29
 categories: main
 ---
-30 days of Graph
+Microsoft Graph
 ---
 
 I am implementing a Graph solution for syncing office 365 groups in Azure AD.
