@@ -12,6 +12,6 @@ A lot of parallel computing is involved, hence I choosed ocaml-inspired F# as th
 
 This was my first real project in F#. The company I work for and the customers are very happy with the result in terms of reliability and speed.
 
-I have found this [beautifull book](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf) for a more academic background and it's on my chrismass holiday reading list. 
+I have found this [beautifull book](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf) for a more academic background and it's on my chrismas holiday reading list. 
 Hope you will enjoy it too.
 
