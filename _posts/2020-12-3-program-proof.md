@@ -1,0 +1,17 @@
+---
+layout: default
+title: "Program Proof" 
+date: 2020-12-03
+categories: main
+---
+Program Proof
+---
+
+This year I'v made an integration between dutch Student Information Systems (SIS) and Microsoft Teams.
+A lot of parallel computing is involved, hence I choosed ocaml-inspired F# as the programming language of choice.
+
+This was my first real project in F#. The company I work for and the customers are very happy with the result in terms of reliability and speed.
+
+I have found this [beautifull book](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf) for a more academic background and it's on my chrismass holiday reading list. 
+Hope you will enjoy it too.
+
