@@ -7,7 +7,7 @@ categories: main
 Program Proof
 ---
 
-This year I'v made an integration between Dutch Student Information Systems (SIS) and Microsoft Teams.
+This year I've made an integration between Dutch Student Information Systems (SIS) and Microsoft Teams.
 A lot of parallel computing is involved, hence I chose ocaml-inspired F# as the programming language of choice.
 
 This was my first real project in F#. The company I work for and the customers are very happy with the result in terms of reliability and speed.
