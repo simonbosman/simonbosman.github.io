@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Functional" 
+title: "Functional programming is a good thing" 
 date: 2021-02-23
 categories: main
 ---
